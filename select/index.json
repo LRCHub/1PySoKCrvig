@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "2時半ろけんろー",
   "base_artist": "≠ME",
-  "createdAt": "2025-12-14T14:51:10.054380Z",
+  "createdAt": "2026-03-27T11:59:50.805153Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "≠ME",
       "has_synced": false,
       "path": "select/pl_01_2時半ろけんろー_≠ME.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "2時半ろけんろー",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/localdb_01_2時半ろけんろー_≠ME.txt",
+      "repo_name": "1PySoKCrvig"
     }
   ]
 }
